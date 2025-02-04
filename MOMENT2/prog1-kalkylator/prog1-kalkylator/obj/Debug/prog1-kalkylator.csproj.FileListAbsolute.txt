@@ -1,0 +1,7 @@
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\prog1-kalkylator\prog1-kalkylator\obj\Debug\prog1-kalkylator.csproj.AssemblyReference.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\prog1-kalkylator\prog1-kalkylator\obj\Debug\prog1-kalkylator.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\prog1-kalkylator\prog1-kalkylator\bin\Debug\prog1-kalkylator.exe.config
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\prog1-kalkylator\prog1-kalkylator\bin\Debug\prog1-kalkylator.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\prog1-kalkylator\prog1-kalkylator\bin\Debug\prog1-kalkylator.pdb
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\prog1-kalkylator\prog1-kalkylator\obj\Debug\prog1-kalkylator.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\prog1-kalkylator\prog1-kalkylator\obj\Debug\prog1-kalkylator.pdb

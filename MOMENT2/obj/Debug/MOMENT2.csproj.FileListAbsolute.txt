@@ -1,0 +1,7 @@
+C:\Users\tommy\source\repos\MOMENT2\MOMENT2\obj\Debug\MOMENT2.csproj.AssemblyReference.cache
+C:\Users\tommy\source\repos\MOMENT2\MOMENT2\obj\Debug\MOMENT2.csproj.CoreCompileInputs.cache
+C:\Users\tommy\source\repos\MOMENT2\MOMENT2\bin\Debug\MOMENT2.exe.config
+C:\Users\tommy\source\repos\MOMENT2\MOMENT2\bin\Debug\MOMENT2.exe
+C:\Users\tommy\source\repos\MOMENT2\MOMENT2\bin\Debug\MOMENT2.pdb
+C:\Users\tommy\source\repos\MOMENT2\MOMENT2\obj\Debug\MOMENT2.exe
+C:\Users\tommy\source\repos\MOMENT2\MOMENT2\obj\Debug\MOMENT2.pdb

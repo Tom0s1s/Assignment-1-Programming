@@ -1,0 +1,7 @@
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Hälsningsfras\Hälsningsfras\bin\Debug\Hälsningsfras.exe.config
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Hälsningsfras\Hälsningsfras\bin\Debug\Hälsningsfras.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Hälsningsfras\Hälsningsfras\bin\Debug\Hälsningsfras.pdb
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Hälsningsfras\Hälsningsfras\obj\Debug\Hälsningsfras.csproj.AssemblyReference.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Hälsningsfras\Hälsningsfras\obj\Debug\Hälsningsfras.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Hälsningsfras\Hälsningsfras\obj\Debug\Hälsningsfras.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Hälsningsfras\Hälsningsfras\obj\Debug\Hälsningsfras.pdb

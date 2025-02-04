@@ -1,0 +1,7 @@
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Farhenheitconvert\Farhenheitconvert\obj\Debug\Farhenheitconvert.csproj.AssemblyReference.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Farhenheitconvert\Farhenheitconvert\obj\Debug\Farhenheitconvert.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Farhenheitconvert\Farhenheitconvert\bin\Debug\Farhenheitconvert.exe.config
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Farhenheitconvert\Farhenheitconvert\bin\Debug\Farhenheitconvert.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Farhenheitconvert\Farhenheitconvert\bin\Debug\Farhenheitconvert.pdb
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Farhenheitconvert\Farhenheitconvert\obj\Debug\Farhenheitconvert.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Farhenheitconvert\Farhenheitconvert\obj\Debug\Farhenheitconvert.pdb

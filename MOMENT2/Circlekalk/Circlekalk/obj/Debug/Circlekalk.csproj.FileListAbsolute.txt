@@ -1,0 +1,7 @@
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Circlekalk\Circlekalk\obj\Debug\Circlekalk.csproj.AssemblyReference.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Circlekalk\Circlekalk\obj\Debug\Circlekalk.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Circlekalk\Circlekalk\bin\Debug\Circlekalk.exe.config
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Circlekalk\Circlekalk\bin\Debug\Circlekalk.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Circlekalk\Circlekalk\bin\Debug\Circlekalk.pdb
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Circlekalk\Circlekalk\obj\Debug\Circlekalk.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Circlekalk\Circlekalk\obj\Debug\Circlekalk.pdb
